@@ -4,6 +4,7 @@ title: Escaping Literal Quotes in Strings
 challengeType: 1
 videoUrl: 'https://scrimba.com/c/c2QvgSr'
 forumTopicId: 17568
+dashedName: escaping-literal-quotes-in-strings
 ---
 
 # --description--
@@ -35,7 +36,7 @@ assert(code.match(/\\"/g).length === 4 && code.match(/[^\\]"/g).length === 2);
 Variable myStr should contain the string: `I am a "double quoted" string inside "double quotes".`
 
 ```js
-assert(myStr === 'I am a "double quoted" string inside "double quotes".');
+assert(/I am a "double quoted" string inside "double quotes(\."|"\.)$/.test(myStr));
 ```
 
 # --seed--

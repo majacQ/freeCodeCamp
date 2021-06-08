@@ -3,6 +3,7 @@ id: 587d8249367417b2b2512c41
 title: Metric-Imperial Converter
 challengeType: 4
 forumTopicId: 301570
+dashedName: metric-imperial-converter
 ---
 
 ::import{component="Description" from="../../../imported-files/markdown-exports.md"}
@@ -270,8 +271,6 @@ async (getUserInput) => {
   }
 };
 ```
-
-# --seed--
 
 # --solutions--
 

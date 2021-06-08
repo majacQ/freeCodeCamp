@@ -3,6 +3,7 @@ id: 587d824a367417b2b2512c45
 title: Anonymous Message Board
 challengeType: 4
 forumTopicId: 301568
+dashedName: anonymous-message-board
 ---
 
 ::import{component="Description" from="../../../imported-files/markdown-exports.md"}
@@ -131,8 +132,6 @@ All 10 functional tests are complete and passing.
 ```js
 
 ```
-
-# --seed--
 
 # --solutions--
 

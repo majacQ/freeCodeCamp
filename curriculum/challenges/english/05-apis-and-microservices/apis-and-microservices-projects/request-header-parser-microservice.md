@@ -3,6 +3,7 @@ id: bd7158d8c443edefaeb5bdff
 title: Request Header Parser Microservice
 challengeType: 4
 forumTopicId: 301507
+dashedName: request-header-parser-microservice
 ---
 
 ::import{component="Description" from="../../../imported-files/markdown-exports.md"}
@@ -64,8 +65,6 @@ A request to `/api/whoami` should return a JSON object with your software in the
     }
   );
 ```
-
-# --seed--
 
 # --solutions--
 

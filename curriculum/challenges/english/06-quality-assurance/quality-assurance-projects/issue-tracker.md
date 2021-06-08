@@ -3,6 +3,7 @@ id: 587d8249367417b2b2512c42
 title: Issue Tracker
 challengeType: 4
 forumTopicId: 301569
+dashedName: issue-tracker
 ---
 
 ::import{component="Description" from="../../../imported-files/markdown-exports.md"}
@@ -356,8 +357,6 @@ async (getUserInput) => {
   }
 };
 ```
-
-# --seed--
 
 # --solutions--
 

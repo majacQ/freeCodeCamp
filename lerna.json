@@ -8,6 +8,7 @@
     "tools/challenge-md-parser/mdx",
     "tools/scripts/seed",
     "tools/scripts/build",
+    "tools/formatter",
     "tools/challenge-helper-scripts"
   ],
   "version": "independent"

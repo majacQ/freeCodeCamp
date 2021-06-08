@@ -160,6 +160,7 @@ jspm_packages/
 *.out
 *.gz
 *.swp
+config/curriculum.json
 env.json
 curriculum/curricula.json
 client/static/js/frame-runner.js
