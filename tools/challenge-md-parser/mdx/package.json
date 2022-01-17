@@ -10,7 +10,7 @@
     "unist-util-select": "^3.0.1"
   },
   "dependencies": {
-    "hast-util-to-html": "^7.1.1",
+    "hast-util-to-html": "^8.0.3",
     "js-yaml": "^3.12.0",
     "lodash": "^4.17.19",
     "mdast-builder": "^1.1.1",
