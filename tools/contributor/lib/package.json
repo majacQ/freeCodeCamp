@@ -10,7 +10,7 @@
     "gray-matter": "^4.0.1",
     "lodash": "^4.17.11",
     "path": "^0.12.7",
-    "readdirp-walk": "^1.6.0",
+    "readdirp-walk": "^2.0.0",
     "travis-ci": "^2.2.0",
     "util": "^0.11.1"
   },
