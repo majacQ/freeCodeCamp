@@ -27,7 +27,7 @@ RUN npm run build:client
 WORKDIR /home/node/config
 RUN git clone https://github.com/freeCodeCamp/client-config.git client
 
-FROM node:12.20-alpine
+FROM node:12.22.10-alpine
 RUN npm i -g serve
 USER node
 WORKDIR /home/node
